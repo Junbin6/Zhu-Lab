@@ -1,209 +1,416 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.3390/genes17030348
+  title: GWA Study Identifies Two Positive Regulators of Mycotoxin Fumonisin B1 Tolerance
+    in Arabidopsis
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Yaxin Guan
+  - Houpeng Wu
+  - Zhiqing Wang
+  - Chuang Liu
+  - Wangsheng Zhu
+  publisher: Genes
+  date: '2026-03-21'
+  link: https://doi.org/hcfxgc
+  orcid: 0000-0001-7773-3438
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+- id: doi:10.1038/s41477-025-02113-7
+  title: Glycosylation disruption is a new virulence strategy for a plant fungal pathogen
+  authors: []
+  publisher: Nature Plants
+  date: '2025-09-19'
+  link: https://doi.org/hcfxgd
+  orcid: 0000-0001-7773-3438
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41477-025-02112-8
+  title: An apoplastic fungal effector disrupts N-glycosylation of ZmLecRK1, inducing
+    its degradation to suppress disease resistance in maize
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Chuang Liu
+  - Junbin Chen
+  - Zhenju Li
+  - Zhen Zhang
+  - Yuyang Luan
+  - Hui Liu
+  - Hongtian Liu
+  - Jianhua Huang
+  - Wangsheng Zhu
+  publisher: Nature Plants
+  date: '2025-09-12'
+  link: https://doi.org/hcfxgf
+  orcid: 0000-0001-7773-3438
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1371/journal.pbio.3003237
+  title: A major trade-off between growth and defense in Arabidopsis thaliana can
+    vanish in field conditions
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Derek S. Lundberg
+  - Sonja Kersten
+  - "Ezgi Mehmeto\u011Flu Boz"
+  - Pratchaya Pramoj Na Ayutthaya
+  - Wangsheng Zhu
+  - Karin Poersch
+  - Wei Yuan
+  - Sophia Swartz
+  - "David M\xFCller"
+  - Ilja Bezrukov
+  - Detlef Weigel
+  publisher: PLOS Biology
+  date: '2025-07-14'
+  link: https://doi.org/g9vxmp
+  orcid: 0000-0001-7773-3438
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.cj.2024.12.009
+  title: RPSR1, a major quantitative trait locus for Pythium stalk rot resistance
+    in maize
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Shengfeng He
+  - Junbin Chen
+  - Chuang Liu
+  - Dandan Liu
+  - Lei Wang
+  - Canxing Duan
+  - Wangsheng Zhu
+  publisher: The Crop Journal
+  date: '2025-02-01'
+  link: https://doi.org/hcfxgg
+  orcid: 0000-0001-7773-3438
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1093/molbev/msae262
+  title: A de novo Gene Promotes Seed Germination Under Drought Stress in Arabidopsis
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Guang-Teng Jin
+  - Yong-Chao Xu
+  - Xing-Hui Hou
+  - Juan Jiang
+  - Xin-Xin Li
+  - Jia-Hui Xiao
+  - Yu-Tao Bian
+  - Yan-Bo Gong
+  - Ming-Yu Wang
+  - Zhi-Qin Zhang
+  - Yong E Zhang
+  - Wang-Sheng Zhu
+  - Yong-Xiu Liu
+  - Ya-Long Guo
+  publisher: Molecular Biology and Evolution
+  date: '2024-12-24'
+  link: https://doi.org/hcfxgh
+  orcid: 0000-0001-7773-3438
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.molp.2024.09.006
+  title: Natural variations of maize ZmLecRK1 determine its interaction with ZmBAK1
+    and resistance patterns to multiple pathogens
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Zhenju Li
+  - Junbin Chen
+  - Chuang Liu
+  - Shengfeng He
+  - Mingyu Wang
+  - Lei Wang
+  - Vijai Bhadauria
+  - Shiwei Wang
+  - Wenyu Cheng
+  - Hui Liu
+  - Xiaohong Yang
+  - Mingliang Xu
+  - You-Liang Peng
+  - Wangsheng Zhu
+  publisher: Molecular Plant
+  date: '2024-10-01'
+  link: https://doi.org/g8wcg2
+  orcid: 0000-0001-7773-3438
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1111/pbi.14242
+  title: "A dual\u2010subcellular localized \u03B2\u2010glucosidase confers pathogen\
+    \ and insect resistance without a yield penalty in maize"
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Chuang Liu
+  - Shengfeng He
+  - Junbin Chen
+  - Mingyu Wang
+  - Zhenju Li
+  - Luyang Wei
+  - Yan Chen
+  - Meida Du
+  - Dandan Liu
+  - Cai Li
+  - Chunju An
+  - Vijai Bhadauria
+  - Jinsheng Lai
+  - Wangsheng Zhu
+  publisher: Plant Biotechnology Journal
+  date: '2023-11-27'
+  link: https://doi.org/g8xjq8
+  orcid: 0000-0001-7773-3438
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.molcel.2023.10.030
+  title: Small proteins modulate ion-channel-like ACD6 to regulate immunity in Arabidopsis
+    thaliana
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Junbin Chen
+  - Lei Li
+  - Jong Hum Kim
+  - "Benjamin Neuh\xE4user"
+  - Mingyu Wang
+  - Michael Thelen
+  - Richard Hilleary
+  - Yuan Chi
+  - Luyang Wei
+  - Kavita Venkataramani
+  - Moises Exposito-Alonso
+  - Chang Liu
+  - Jakob Keck
+  - A. Cristina Barragan
+  - Rebecca Schwab
+  - Ulrich Lutz
+  - Zhen-Ming Pei
+  - Sheng-Yang He
+  - Uwe Ludewig
+  - Detlef Weigel
+  - Wangsheng Zhu
+  publisher: Molecular Cell
+  date: '2023-12-01'
+  link: https://doi.org/hcfxgj
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.chom.2023.10.006
+  title: The plant immune receptor SNC1 monitors helper NLRs targeted by a bacterial
+    effector
+  authors:
+  - Ming-Yu Wang
+  - Jun-Bin Chen
+  - Rui Wu
+  - Hai-Long Guo
+  - Yan Chen
+  - Zhen-Ju Li
+  - Lu-Yang Wei
+  - Chuang Liu
+  - Sheng-Feng He
+  - Mei-Da Du
+  - Ya-long Guo
+  - You-Liang Peng
+  - Jonathan D.G. Jones
+  - Detlef Weigel
+  - Jian-Hua Huang
+  - Wang-Sheng Zhu
+  publisher: Cell Host &amp; Microbe
+  date: '2023-11-01'
+  link: https://doi.org/qt9r
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-019-1694-3
+  title: Plant lamin-like proteins mediate chromatin tethering at the nuclear periphery
+  authors:
+  - Bo Hu
+  - Nan Wang
+  - Xiuli Bi
+  - "Ezgi S\xFCheyla Karaaslan"
+  - Anna-Lena Weber
+  - Wangsheng Zhu
+  - Kenneth Wayne Berendzen
+  - Chang Liu
   publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2019-04-30'
+  link: https://doi.org/gjw2v6
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1105/tpc.18.00938
+  title: Genetic Interactions and Molecular Evolution of the Duplicated Genes <i>ICARUS2</i>
+    and <i>ICARUS1</i> Help Arabidopsis Plants Adapt to Different Ambient Temperatures
+  authors:
+  - "Bel\xE9n M\xE9ndez-Vigo"
+  - "Israel Aus\xEDn"
+  - Wangsheng Zhu
+  - "Almudena Moll\xE1-Morales"
+  - Sureshkumar Balasubramanian
+  - Carlos Alonso-Blanco
+  publisher: The Plant Cell
+  date: '2019-04-16'
+  link: https://doi.org/hcfxgk
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13007-018-0330-7
+  title: An efficient CRISPR vector toolbox for engineering large deletions in Arabidopsis
+    thaliana
+  authors:
+  - Rui Wu
+  - Miriam Lucke
+  - Yun-ting Jang
+  - Wangsheng Zhu
+  - Efthymia Symeonidi
+  - Congmao Wang
+  - Joffrey Fitz
+  - Wanyan Xi
+  - Rebecca Schwab
+  - Detlef Weigel
+  publisher: Plant Methods
+  date: '2018-08-02'
+  link: https://doi.org/gd2dtw
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1007628
+  title: Modulation of ACD6 dependent hyperimmunity by natural alleles of an Arabidopsis
+    thaliana NLR resistance gene
+  authors:
+  - Wangsheng Zhu
+  - Maricris Zaidem
+  - Anna-Lena Van de Weyer
+  - Rafal M. Gutaker
+  - Eunyoung Chae
+  - Sang-Tae Kim
+  - Felix Bemm
+  - Lei Li
+  - Marco Todesco
+  - Rebecca Schwab
+  - Frederik Unger
+  - Marcel Janis Beha
+  - Monika Demar
+  - Detlef Weigel
+  publisher: PLOS Genetics
+  date: '2018-09-20'
+  link: https://doi.org/gfdg52
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-017-1281-4
+  title: Altered chromatin compaction and histone methylation drive non-additive gene
+    expression in an interspecific Arabidopsis hybrid
+  authors:
+  - Wangsheng Zhu
+  - Bo Hu
+  - Claude Becker
+  - "Ezgi S\xFCheyla Do\u011Fan"
+  - Kenneth Wayne Berendzen
+  - Detlef Weigel
+  - Chang Liu
+  publisher: Genome Biology
+  date: '2017-08-22'
+  link: https://doi.org/gbtdrw
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1105/tpc.16.00551
+  title: 'easyGWAS: A Cloud-Based Platform for Comparing the Results of Genome-Wide
+    Association Studies'
+  authors:
+  - Dominik G. Grimm
+  - Damian Roqueiro
+  - "Patrice A. Salom\xE9"
+  - Stefan Kleeberger
+  - Bastian Greshake
+  - Wangsheng Zhu
+  - Chang Liu
+  - Christoph Lippert
+  - Oliver Stegle
+  - "Bernhard Sch\xF6lkopf"
+  - Detlef Weigel
+  - Karsten M. Borgwardt
+  publisher: The Plant Cell
+  date: '2016-12-16'
+  link: https://doi.org/f9ts2p
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1104/pp.15.00942
+  title: Genetic Architecture of Natural Variation in Thermal Responses of Arabidopsis
+  authors:
+  - Eduardo Sanchez-Bermejo
+  - Wangsheng Zhu
+  - Celine Tasset
+  - Hannes Eimer
+  - Sridevi Sureshkumar
+  - Rupali Singh
+  - Vignesh Sundaramoorthi
+  - Luana Colling
+  - Sureshkumar Balasubramanian
+  publisher: Plant Physiology
+  date: '2015-07-20'
+  link: https://doi.org/f7qwn8
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1005085
+  title: Natural Variation Identifies ICARUS1, a Universal Gene Required for Cell
+    Proliferation and Growth at High Temperatures in Arabidopsis thaliana
+  authors:
+  - Wangsheng Zhu
+  - Israel Ausin
+  - Andrei Seleznev
+  - "Bel\xE9n M\xE9ndez-Vigo"
+  - "F. Xavier Pic\xF3"
+  - Sridevi Sureshkumar
+  - Vignesh Sundaramoorthi
+  - Dieter Bulach
+  - David Powell
+  - Torsten Seemann
+  - Carlos Alonso-Blanco
+  - Sureshkumar Balasubramanian
+  publisher: PLOS Genetics
+  date: '2015-05-07'
+  link: https://doi.org/f7dtbz
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0003021
+  title: A Dominant X-Linked QTL Regulating Pubertal Timing in Mice Found by Whole
+    Genome Scanning and Modified Interval-Specific Congenic Strain Analysis
+  authors:
+  - Wangsheng Zhu
+  - Zhongpeng Fan
+  - Chao Zhang
+  - Zhengxia Guo
+  - Ying Zhao
+  - Yuxun Zhou
+  - Kai Li
+  - Zhenghong Xing
+  - Guoqiang Chen
+  - Yinming Liang
+  - Li Jin
+  - Junhua Xiao
+  publisher: PLoS ONE
+  date: '2008-08-22'
+  link: https://doi.org/dhz7nj
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3724/SP.J.1005.2008.00475
+  title: SNP discovery by F-CSGE in the coding region of mitochondrial DNA in wild
+    house mice from Shanghai suburb
+  authors:
+  - Zhong-Peng FAN
+  publisher: Hereditas (Beijing)
+  date: '2008-04-10'
+  link: https://doi.org/c8h379
+  orcid: 0000-0001-7773-3438
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1677/joe.1.07049
+  title: Effects of maternal nuclear genome on the timing of puberty in mice offspring
+  authors:
+  - Yuxun Zhou
+  - Wangsheng Zhu
+  - Zhengxia Guo
+  - Ying Zhao
+  - Zijun Song
+  - Junhua Xiao
+  publisher: Journal of Endocrinology
+  date: '2007-06-01'
+  link: https://doi.org/cdpxwp
+  orcid: 0000-0001-7773-3438
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +426,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +442,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
