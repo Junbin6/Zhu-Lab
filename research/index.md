@@ -29,7 +29,7 @@ tooltip: 研究成果
 
 代表性研究成果
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41477-025-02112-8" style="rich" %}
 
 {% include section.html %}
 
