@@ -1,10 +1,9 @@
 ---
-
 title: 研究成果
 nav:
-order: 1
-tooltip: 研究成果
--------------
+  order: 1
+  tooltip: 实验室研究成果
+---
 
 {% include icon.html icon="fa-solid fa-microscope" %} 研究成果
 
