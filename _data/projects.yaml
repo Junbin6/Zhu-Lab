@@ -1,47 +1,38 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+* title: 植物免疫受体与信号转导
+  subtitle: 植物如何感知病原并激活免疫
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: 研究植物如何感知病原微生物以及如何激活和调控免疫反应，重点关注植物免疫受体、受体激酶及下游 Ca²⁺、MAPK 等免疫信号网络。
   tags:
-    - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+  * research
+
+* title: 玉米抗病遗传机制
+  subtitle: 解析重要病害抗性的遗传基础
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: 以玉米为主要研究对象，结合遗传学、QTL 定位、精细定位和功能基因组学等方法，鉴定控制重要病害抗性的关键遗传位点和功能基因。
   tags:
-    - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+  * research
+  * maize
 
-- title: Cool Web App
-  subtitle: a subtitle
+* title: 植物—真菌互作
+  subtitle: 病原效应因子与植物免疫
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: 研究植物与真菌病原物之间的分子互作，解析病原效应因子调控植物免疫受体及宿主细胞过程的分子机制，并探索植物抵御真菌侵染的免疫机制。
   tags:
-    - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+  * research
+  * plant-pathogen interaction
+
+* title: 植物—卵菌互作
+  subtitle: 作物对卵菌病害的抗性机制
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: 研究植物与卵菌病原物之间的互作机制，解析植物识别卵菌病原并建立有效免疫反应的分子基础，探索作物重要卵菌病害的抗性机制。
   tags:
-    - software
+
+  * research
+  * plant-pathogen interaction
