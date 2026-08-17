@@ -5,6 +5,6 @@
 
   # Junbin6's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[junbin6.github.io/Zhu-Lab](https://junbin6.github.io/Zhu-Lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
